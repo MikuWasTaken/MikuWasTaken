@@ -1,4 +1,4 @@
-### Hi there 👋
+Hi there 👋
 
 <!--
 is it me MikuWasTaken and welcome to my github profile
