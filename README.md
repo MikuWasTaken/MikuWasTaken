@@ -1,6 +1,5 @@
 Hi there 👋
 
-<!--
 is it me MikuWasTaken and welcome to my github profile
 
 Here are some ideas to get you started:
