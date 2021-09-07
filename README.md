@@ -4,7 +4,7 @@ is it me MikuWasTaken and welcome to my github profile
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...Nigxht Network
+- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 🕸️ I'm bilingual, I'm currently able to speak 🇪🇸 Spanish & English 🇺🇸
 - 🦴 I know Python 💎 , JavaScript 🚫 And Java 🖥
