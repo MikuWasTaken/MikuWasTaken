@@ -11,5 +11,5 @@ Here are some ideas to get you started:
 - 💻 I Can Make Minecraft Plugins Using Java And I Can Make Scripts
 - 💧 I'm also going to be publishing some of my projects and Some Repositories
 
-Discord: MikuWasTaken#0001 Twitter: @ZMikuWasTaken
+Discord: MikuWasTaken#1161 Twitter: @ZMikuWasTaken
 
