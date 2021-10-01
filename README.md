@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 
 Discord: MikuWasTaken#1161 Twitter: @ZMikuWasTaken
 
-                                                                                Skills
-                                                                   A summary of my programming skills.
+                                                                       Skills
+                                                            A summary of my programming skills.
                                                                    
 
