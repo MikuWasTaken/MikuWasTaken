@@ -13,3 +13,7 @@ Here are some ideas to get you started:
 
 Discord: MikuWasTaken#1161 Twitter: @ZMikuWasTaken
 
+                                                                                Skills
+                                                                   A summary of my programming skills.
+                                                                   
+![1200px-Unofficial_JavaScript_logo_2 svg](https://user-images.githubusercontent.com/86092825/135655640-49a97644-f636-49a5-ada5-88d771d5889f.png)
