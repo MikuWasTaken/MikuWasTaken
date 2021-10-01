@@ -16,3 +16,4 @@ Discord: MikuWasTaken#1161 Twitter: @ZMikuWasTaken
                                                                                 Skills
                                                                    A summary of my programming skills.
                                                                    
+![java](https://user-images.githubusercontent.com/86092825/135655916-d3fba93a-1309-4600-ac09-377db69534c7.png)
