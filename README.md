@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ...Aplaxy Network
 - 🌱 I’m currently learning ...
 - 🕸️ I'm bilingual, I'm currently able to speak 🇪🇸 Spanish & English 🇺🇸
-- 🦴 I know Python 💎 , JavaScript 🚫 And Java 🖥
+- 🦴 I know Python 💎 , JavaScript 🚫 , Java 🖥 And HTML 🕸️ 
 - 💻 I Can Make Minecraft Plugins Using Java And I Can Make Scripts
 - 💧 I'm also going to be publishing some of my projects and Some Repositories
 
