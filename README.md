@@ -16,9 +16,9 @@ Discord: MikuWasTaken#1161 Twitter: @ZMikuWasTaken
 Developer Experience
 ---------------------------------
 Servers:
-Centry Network
-Nigxht Network
-Aplaxy Network
-JungleMC Network
-SlytherPvP Network
-HazelMC Network
+- Centry Network
+- Nigxht Network
+- Aplaxy Network
+- JungleMC Network
+- SlytherPvP Network
+- HazelMC Network
