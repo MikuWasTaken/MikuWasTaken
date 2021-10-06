@@ -22,4 +22,4 @@ Servers:
 - Aplaxy Network
 - JungleMC Network
 - SlytherPvP Network
-- HazelMC Network
+
