@@ -16,6 +16,7 @@ Discord: MikuWasTaken#1161 Twitter: @ZMikuWasTaken
 Developer Experience
 ---------------------------------
 Servers:
+- Hazel Network
 - Centry Network
 - Nigxht Network
 - Aplaxy Network
