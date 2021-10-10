@@ -13,6 +13,9 @@ Here are some ideas to get you started:
 
 Discord: MikuWasTaken#1161 Twitter: @ZMikuWasTaken
 
+### GitHub Stats
+![MikuWasTaken's GitHub stats](https://github-readme-stats.vercel.app/api?username=MikuWasTaken&show_icons=true&theme=tokyonight)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MikuWasTaken&theme=tokyonight)](https://github.com/MikuWasTaken)
+
 Developer Experience
 ---------------------------------
 Servers:
