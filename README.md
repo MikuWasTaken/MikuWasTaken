@@ -19,6 +19,7 @@ Developer Experience
 ---------------------------------
 Servers:
 - Centry Network
+- FreshPvP Network
 - Nigxht Network
 - Aplaxy Network
 - JungleMC Network
