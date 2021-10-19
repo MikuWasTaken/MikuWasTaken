@@ -10,7 +10,6 @@ Here are some ideas to get you started:
 - 🦴 I know Python 💎 , JavaScript 🚫 , Java 🖥 And HTML 🕸️ 
 - 💧 I'm also going to be publishing some of my projects and Some Repositories
 
-Discord: MikuWasTaken#1161 Twitter: @ZMikuWasTaken1
 
 ### GitHub Stats
 ![MikuWasTaken's GitHub stats](https://github-readme-stats.vercel.app/api?username=MikuWasTaken&show_icons=true&theme=tokyonight)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MikuWasTaken&theme=tokyonight)](https://github.com/MikuWasTaken)
@@ -25,3 +24,8 @@ Servers:
 - JungleMC Network
 - SlytherPvP Network
 - VealMC Network
+
+Contacts
+---------------------------------
+Discord | MikuWasTaken#1161
+Twitter | @ZMikuWasTaken1
