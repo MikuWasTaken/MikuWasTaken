@@ -27,5 +27,5 @@ Servers:
 
 Contacts
 ---------------------------------
-Discord | MikuWasTaken#1161
-Twitter | @ZMikuWasTaken1
+-Discord | MikuWasTaken#1161
+-Twitter | @ZMikuWasTaken1
