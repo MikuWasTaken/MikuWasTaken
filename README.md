@@ -5,9 +5,9 @@ is it me MikuWasTaken and welcome to my github profile
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Java 🖥
 - 🕸️ I'm bilingual, I'm currently able to speak 🇪🇸 Spanish & English 🇺🇸
-- 🦴 I know Python 💎 , JavaScript 🚫 , Java 🖥 And HTML 🕸️ 
+- 🦴 I know Java 🖥
 - 💧 I'm also going to be publishing some of my projects and Some Repositories
 
 
