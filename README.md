@@ -1,6 +1,6 @@
 Hi there 👋
 
-is it me MikuWasTaken and welcome to my github profile
+is it me Mikusito and welcome to my github profile
 
 Here are some ideas to get you started:
 
@@ -27,5 +27,5 @@ Servers:
 
 Contacts
 ---------------------------------
-- Discord | MikuWasTaken#8689
+- Discord | MikusitoB#4723
 - Twitter | @ZMikuWasTaken1
