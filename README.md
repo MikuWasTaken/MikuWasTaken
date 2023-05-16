@@ -27,5 +27,5 @@ Servers:
 
 Contacts
 ---------------------------------
-- Discord | MikusitoB#4723
+- Discord | MikusitoB#0001
 - Twitter | @ZMikuWasTaken1
