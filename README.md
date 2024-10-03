@@ -1,4 +1,4 @@
-![Header](./github-header-image-(1).png)
+![Header](/github-header-image-(1).png)
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D2A306&center=true&vCenter=true&random=false&width=600&lines=Java+Developer;Always+learning+new+things" alt="Typing SVG" /></a>
